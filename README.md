@@ -1,27 +1,55 @@
-# Mohammad Afaq
+# Hey, I'm Afaq 👋
 
-**Software engineer focused on embedded Linux, modern C++, and reliable automotive systems.** Based in Oulu, Finland.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=24&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Software+Engineer;C%2B%2B+%7C+Python+%7C+Linux;Embedded+Systems+%26+Automotive;Building+things+that+actually+work+%F0%9F%9A%80"
+    alt="Software Engineer — C++ | Python | Linux — Embedded Systems &amp; Automotive — Building things that actually work 🚀"
+  />
+</p>
 
-I work on Adaptive AUTOSAR software at Elektrobit Automotive, with experience in component design, C++ development, integration, and testing. My broader interests include tooling automation, signal processing, and efficient machine learning.
+```cpp
+#include <iostream>
+#include <string>
 
-[Portfolio](https://mafaq318.github.io/) · [CV](https://mafaq318.github.io/docs/AFAQ_MOHAMMAD_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/mafaq) · [Email](mailto:mafaqq318@gmail.com)
+class Afaq {
+public:
+    std::string role = "Software Engineer";
+    std::string location = "Oulu, Finland";
 
-## Engineering focus
+    std::string interests =
+        "Embedded Systems | C++ | Linux | Automation | ML";
 
-- **Embedded and automotive:** C/C++ (C++14 and C++20), Linux, Adaptive AUTOSAR, Yocto, and SDK integration.
-- **Software quality:** unit, integration, and fuzz testing; GoogleTest, GoogleMock, Robot Framework, and code coverage.
-- **Tools and automation:** Python, shell scripting, Git, CMake, Jenkins, and CI/CD.
-- **Applied research:** U-Net attention mechanisms and model quantization for differential mobility spectrometry (DMS), plus PPG signal analysis.
+    void build() {
+        std::cout << "Turning ideas into reliable software..." << std::endl;
+    }
+};
 
-## Selected public work
+int main() {
+    Afaq me;
+    me.build();
 
-| Project | What to explore |
-| --- | --- |
-| [Interactive portfolio](https://mafaq318.github.io/) · [Source](https://github.com/mafaq318/mafaq318.github.io) | Experience, technical skills, and research projects, with Profile and interactive Terminal views. |
-| [Motion artifact detection in PPG](https://github.com/mafaq318/Motion-Artifacts-Detection-in-PPG-Signal) | Academic MATLAB signal-processing work, GUI experiments, and project documentation. See the repository's data/privacy notes before reusing research artifacts. |
+    return 0;
+}
+```
 
-My [portfolio projects section](https://mafaq318.github.io/#projects) also describes my master's research on model quantization for DMS analysis. Most of my professional contributions are in private enterprise repositories; public activity here represents only part of my engineering work.
+I enjoy working close to the system — where **software architecture, performance, reliability, and hardware constraints** all meet.
 
-## Let's connect
+Most of my day-to-day work revolves around **C++, Linux, embedded systems, and automotive software**, while my side projects tend to wander into **Python, machine learning, backend systems, automation, and whatever else looks interesting enough to break and rebuild.**
 
-Interested in discussing embedded software, C++/Linux engineering, automation, or efficient ML? Reach me on [LinkedIn](https://www.linkedin.com/in/mafaq) or by [email](mailto:mafaqq318@gmail.com).
+```text
+afaq@github:~$ ./current_focus
+
+[+] Modern C++
+[+] Linux & Embedded Systems
+[+] Software Architecture
+[+] Automation
+[+] Performance Engineering
+[+] Applied Machine Learning
+
+afaq@github:~$ echo "always learning"
+always learning
+```
+
+<p align="center">
+  <sub>Build. Break. Debug. Repeat. ☕</sub>
+</p>
